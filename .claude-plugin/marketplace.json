@@ -1,0 +1,11 @@
+{
+  "name": "rajshaikh-ai",
+  "owner": { "name": "Raj (@rajshaikh.ai)" },
+  "plugins": [
+    {
+      "name": "animation-styles",
+      "source": "./",
+      "description": "Nine reel animation styles as slash commands, built with Remotion."
+    }
+  ]
+}

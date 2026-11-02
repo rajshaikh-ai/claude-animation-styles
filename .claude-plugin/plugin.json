@@ -1,0 +1,10 @@
+{
+  "name": "animation-styles",
+  "version": "1.0.0",
+  "description": "Nine reel animation styles as slash commands (/map-route, /teardown, /ink-wash, /paper-desk, /headline, /stat-chart, /app-mockup, /screen-zoom, /timeline) built with Remotion, plus editing them into your own video. Style recipes by Shaan Johari (@viashaan).",
+  "author": { "name": "Raj (@rajshaikh.ai)", "url": "https://instagram.com/rajshaikh.ai" },
+  "homepage": "https://github.com/rajshaikh-ai/claude-animation-styles",
+  "repository": "https://github.com/rajshaikh-ai/claude-animation-styles",
+  "license": "MIT",
+  "keywords": ["remotion", "animation", "reels", "video", "motion graphics"]
+}
